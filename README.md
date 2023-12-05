@@ -11,7 +11,7 @@ Este repositório foi criado para o desenvolvimento do módulo Programação Din
 
 # Apresentação
 
-[Link para a apresentação da dupla]()
+[Link para a apresentação da dupla](https://youtu.be/Q3dUtesvB5U)
 
 # Foram feitos os exercícios no LeetCode
 
