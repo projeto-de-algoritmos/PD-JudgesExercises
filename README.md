@@ -27,6 +27,26 @@ Este problema foi solucionado com o uso de programação dinâmica. A estratégi
 
 ![139. Word Break](/images/139.jpeg)
 
+## [312. Burst Balloons(Hard)](https://leetcode.com/problems/burst-balloons/description/)
+
+Você recebe n balões, indexados de 0 a n - 1. Cada balão é pintado com um número representado por uma matriz nums. Você é solicitado a estourar todos os balões.
+
+Se você estourar o i-ésimo balão, você receberá nums[i - 1] _ nums[i] _ nums[i + 1] moedas. Se i - 1 ou i + 1 sair dos limites da matriz, trate-o como se houvesse um balão com um 1 pintado nele.
+
+Retorne o máximo de moedas que você pode coletar estourando os balões com sabedoria.
+
+![312. Burst Balloons](/images/312.jpg)
+
+## [879. Profitable Schemes(Hard)](https://leetcode.com/problems/profitable-schemes/description/)
+
+Há um grupo de n membros e uma lista de vários crimes que eles podem cometer. O i-ésimo crime gera lucro[i] e exige que os membros do grupo[i] participem dele. Se um membro participar de um crime, esse membro não poderá participar de outro crime.
+
+Vamos chamar de esquema lucrativo qualquer subconjunto desses crimes que gere pelo menos lucro minProfit, e o número total de membros participantes desse subconjunto de crimes seja no máximo n.
+
+Retorne o número de esquemas que podem ser escolhidos. Como a resposta pode ser muito grande, retorne-a módulo 109 + 7.
+
+![879. Profitable Schemes](/images/879.jpg)
+
 # Instalação
 
 Pré-Requisitos: Os códigos devem ser rodados na própria plataforma do Leetcode, tendo em vista o uso de uma classe Solution, bem como o uso correto dos inputs por parte da plataforma.
